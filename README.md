@@ -14,5 +14,5 @@
 - Git Automation Script
 - Personal Portfolio
 
-📫 Reach me: rojith@email.com  
+📫 Reach me: rojiths25@gmail.com  
 📍 Chennai, IN
